@@ -1,4 +1,4 @@
-# 📊 ML Mini Projects
+# 📊 ml mini projects
 
 Welcome to the **ML Mini Projects** repository!  
 This collection features simple machine learning projects implemented in **Python**. Each project demonstrates the process of **data preprocessing**, **model training**, and **result evaluation**.
